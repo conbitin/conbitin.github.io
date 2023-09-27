@@ -14,4 +14,12 @@
     "sha256_cert_fingerprints":
     ["DC:04:5A:AC:67:DD:C1:BC:4A:47:AD:94:81:C3:1F:90:B4:29:26:F6:05:16:C8:88:F3:00:CE:A0:B7:25:99:12"]
   }
+}, {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "annualproject.com.jainamsoftware",
+    "sha256_cert_fingerprints":
+    ["9E:52:47:5E:90:D3:03:19:C2:17:9D:AD:DD:EC:87:EE:42:F4:21:32:E5:96:3F:C7:79:AD:DF:58:7A:6C:61:BF"]
+  }
 }]
